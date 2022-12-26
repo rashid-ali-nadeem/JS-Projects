@@ -58,6 +58,7 @@ h1 {
 }
 
 .controls .timestamp {
+    display: flex;
     color: white;
     font-weight: bold;
     margin-left: 10px;
@@ -68,5 +69,6 @@ h1 {
     .screen, .controls {
         width: 90%;
     }
+    
     
 }
